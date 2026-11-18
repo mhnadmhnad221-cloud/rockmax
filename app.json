@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ROCK MAX",
+    "slug": "rock-max",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.rockmax.game",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.rockmax.game",
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_EAS_PROJECT_ID"
+      }
+    }
+  }
+}
