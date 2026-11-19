@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
-    "newArchEnabled": true,
+    
     "android": {
       "package": "com.rockmax.game",
       "versionCode": 1
