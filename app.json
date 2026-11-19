@@ -6,13 +6,12 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
-    
     "android": {
-      "package": "com.rockmax.game",
-      "versionCode": 1
+      "package": "com.mhnad.rockmax",
+      "versionCode": 2
     },
     "ios": {
-      "bundleIdentifier": "com.rockmax.game",
+      "bundleIdentifier": "com.mhnad.rockmax",
       "supportsTablet": true
     }
   }
